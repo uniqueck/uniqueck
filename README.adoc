@@ -5,8 +5,17 @@ image:twitter.png[link=https://twitter.com/CKrger, width=32px, height=32px, alig
 image:linkedin.png[link=https://www.linkedin.com/in/cokrueger/, width=32px, align=center]
 image:xing.png[link=https://www.xing.com/profile/Constantin_Krueger, width=32px, align=center]
 
+'''
+
+image::https://github-readme-stats.vercel.app/api?username=uniqueck&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true[align=center]
 
 '''
+
+image::https://github-readme-streak-stats.herokuapp.com/?user=cokrueger&hide_border=true&theme=highcontrast[align=center]
+
+'''
+
+image::https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueck&hide=GAP&card_width=500&theme=dracula&hide_border=true&langs_count=10[align=center]
 
 image:https://komarev.com/ghpvc/?username=uniqueck[]
 
